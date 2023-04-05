@@ -3,7 +3,7 @@
 PORT=8080
 AUUID=5aaed9b7-7fe3-47c3-bb52-db59859ce198
 ParameterSSENCYPT=chacha20-ietf-poly1305
-CADDYIndexPage=https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html
+CADDYIndexPage=https://github.com/Externalizable/bongo.cat/archive/master.zip
 
 # download execution
 wget "https://caddyserver.com/api/download?os=linux&arch=amd64" -O caddy
